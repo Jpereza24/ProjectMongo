@@ -14,4 +14,4 @@ def geoQuery(collection,coordinates,maxdistance,mindistance):
          }
         }
     )
-    return len(list(lista))
+    return list(lista)
