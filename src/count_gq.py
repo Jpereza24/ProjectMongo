@@ -1,4 +1,4 @@
-import geoqueries as gq
+from src import geoqueries as gq
 def count(collection, lista):
     list250 = []
     list500 = []

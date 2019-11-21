@@ -1,5 +1,5 @@
-import clean_jsonAPI as ca
-import API as ap
+from src import clean_jsonAPI as ca
+from src import API as ap
 
 def dicti(query):
     dicts = []
