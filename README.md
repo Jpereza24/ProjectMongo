@@ -16,4 +16,4 @@ After that I had to make the geoqueries to see the quantity of facilities that w
 
 The final step was to display the location of the top 3 companies according to the previous ranking and as the three companies where in the same neighbourhood I have selected the first one to put the offices in the plant above of their offices.
 
-The solution can be seen in the image "solution.html"
+The solution can be seen in the image "solution.png" in the output folder.
